@@ -1,1 +1,1 @@
-# Text Editor - DS Project
+This project is the final project of the data structures course. I have developed a text editor using the 'Tree' data structure. This text editor has features such as writing and removing characters, changing the position of the cursor, and searching for words. This project was one of my favorites and enhanced my skills in using pointers.
